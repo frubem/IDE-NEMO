@@ -1,4 +1,4 @@
-# IDE Nemo for Pentagon 
+# IDE for NEMO Bus 
 
 DivIDE for ZX Spectrum computer or clones. Installation in Nemo BUS slot. Support for small hard drives and IDE to SD, IDE to SATA, IDE to CF adapters.
 
